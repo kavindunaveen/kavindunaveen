@@ -1,113 +1,237 @@
 # Hi, I'm Kavindu Naveen 👋
 
-Full-Stack Software Engineer | Django ERP | React Native | Business Automation
+## Full-Stack Software Engineer | Django ERP | React Native | Business Automation
 
-I'm a software engineer from Sri Lanka with 2+ years of commercial experience building production ERP systems, business applications, REST APIs, and mobile solutions.
+I am a Full-Stack Software Engineer from Sri Lanka with **2+ years of commercial experience** building production-grade ERP systems, business applications, REST APIs, mobile applications, and automation solutions.
 
-I focus mainly on building practical software for real business operations such as inventory, sales, purchasing, manufacturing, CRM, finance, attendance, and field workforce management.
+I specialize in transforming real-world business processes into scalable digital solutions using **Python, Django, PostgreSQL, React Native, and cloud technologies**.
 
-## 🚀 What I Work With
+My focus is building practical software that improves:
 
-**Backend**
+- Business operations
+- Workflow automation
+- Data visibility
+- Operational efficiency
+- Decision-making through digital systems
+
+---
+
+# 🚀 What I Build
+
+## 🏢 Enterprise Business Applications
+
+- ERP Systems
+- Inventory Management Systems
+- Sales & CRM Platforms
+- Procurement Workflows
+- Manufacturing Management Systems
+- Business Dashboards
+- Role-Based Access Systems
+
+## 📱 Mobile Applications
+
+- Field workforce applications
+- GPS attendance systems
+- Customer visit tracking solutions
+- Sales team applications
+- REST API integrated mobile platforms
+
+---
+
+# 🛠️ Technical Skills
+
+## Backend Development
+
 - Python
 - Django
+- Django REST Framework
 - REST APIs
 - Node.js
 - Express.js
 
-**Frontend & Mobile**
+## Frontend & Mobile Development
+
 - JavaScript
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Bootstrap
 - React Native
+- TypeScript
 - Expo
 
-**Databases**
+## Databases
+
 - PostgreSQL
 - MySQL
 - SQLite
 - MongoDB
 - Firebase
 
-**Cloud & DevOps**
+## Cloud & DevOps
+
 - AWS
 - Docker
 - Git
 - GitHub
-- Linux / Windows Server
+- Linux
+- Windows Server
 
-## 💼 Commercial Experience
+---
 
-### Everbolt Engineering (Pvt) Ltd
+# 💼 Professional Experience
 
-**System Engineer – Full-Stack Development, ERP & Infrastructure**
+## Everbolt Engineering (Pvt) Ltd
 
-I develop and maintain business software, ERP platforms, mobile applications, automation tools, and supporting infrastructure.
+### System Engineer – Full-Stack Development, ERP & Infrastructure
 
-### Key Work
+I develop and maintain business-critical software platforms, ERP solutions, mobile applications, automation systems, and supporting infrastructure.
 
-- Built a Django-based ERP system covering inventory, sales, CRM, purchasing, manufacturing, finance, deliveries, and user management.
-- Developed a React Native mobile application for sales teams and field operations.
-- Built GPS-based attendance and sales visit tracking solutions.
-- Developed inventory, invoicing, stock management, and internal workflow systems.
-- Worked directly with business users and management to convert manual processes into software solutions.
+### Key Contributions
 
-## 🏗️ Featured Projects
+✅ Designed and developed a Django-based ERP platform covering:
 
-### ERP & Business Management Platform
+- Inventory Management
+- Sales Management
+- CRM
+- Procurement
+- Manufacturing
+- Finance workflows
+- Delivery Management
+- User Management
+- Business Dashboards
 
-Production business management system built using:
 
-`Python` `Django` `PostgreSQL` `JavaScript` `Bootstrap`
+✅ Developed React Native mobile applications supporting:
 
-Includes:
+- Field operations
+- GPS attendance
+- Customer visits
+- Sales activities
+- Data synchronization
+
+
+✅ Converted manual business processes into structured digital workflows by working directly with management and operational teams.
+
+---
+
+# 🌟 Featured Projects
+
+## 🏢 Django ERP & Business Automation Platform
+
+A production-inspired ERP case study based on commercial development experience.
+
+### Modules:
 
 - CRM
 - Inventory
 - Sales
 - Procurement
 - Manufacturing
-- Finance workflows
-- Delivery management
-- Role-based access
-- Management dashboards
+- Delivery Management
+- Role-Based Access Control
+- Management Dashboards
 
-> The production source code is private because it contains proprietary company systems. A sanitized technical case study will be available separately.
+### Technology:
 
-### Field Operations Mobile Application
+```
+Python | Django | PostgreSQL | JavaScript | Bootstrap
+```
 
-Mobile application built using:
+🔗 Case Study:
+https://github.com/kavindunaveen/django-erp-showcase
 
-`React Native` `Node.js` `Firebase` `MySQL` `REST APIs`
+> Production source code remains private because it contains proprietary company systems. A sanitized technical case study is publicly available.
 
-Features include:
+---
 
-- GPS attendance
-- Sales visit tracking
-- Customer management
-- API-based data synchronization
+## 📱 React Native Business Operations Mobile App
+
+A mobile application case study designed for field operations and business teams.
+
+### Features:
+
+- GPS Attendance
+- Customer Visit Tracking
+- Field Sales Activities
+- Customer Management
 - Authentication
-- Field workforce operations
+- REST API Integration
+- Data Synchronization
 
-## 🌍 Remote Work
+### Technology:
+
+```
+React Native | TypeScript | Firebase | REST APIs
+```
+
+🔗 Case Study:
+https://github.com/kavindunaveen/react-native-business-mobile-app-showcase
+
+---
+
+# 📊 Engineering Approach
+
+I enjoy working on projects where software directly solves business problems.
+
+My approach:
+
+```
+Business Requirement
+        ↓
+System Design
+        ↓
+Database Architecture
+        ↓
+Backend Development
+        ↓
+Frontend / Mobile Development
+        ↓
+Deployment & Maintenance
+        ↓
+Continuous Improvement
+```
+
+---
+
+# 🌍 Remote Work
 
 📍 Colombo, Sri Lanka  
 🕒 UTC+5:30  
-🌐 Open to international remote opportunities
 
-I'm particularly interested in:
+I am open to international remote opportunities.
+
+Interested roles:
 
 - Python Developer
 - Django Developer
 - Backend Engineer
-- Full-Stack Django Engineer
-- ERP / Business Automation Engineer
+- Full-Stack Developer
+- ERP Developer
+- Business Automation Engineer
+- Software Engineer
 
-## 🔗 Connect With Me
+---
 
-🌐 Portfolio: https://kavindunaveen.github.io/kavindu-portfolio/
+# 📚 Currently Exploring
 
-💼 LinkedIn: https://linkedin.com/in/iamkavindu3
+- IoT-based monitoring systems
+- Predictive maintenance solutions
+- Data analytics and business intelligence
+- Cloud deployment practices
 
-📧 Email: kavindun277@gmail.com
+---
+
+# 🔗 Connect With Me
+
+🌐 Portfolio  
+https://kavindunaveen.github.io/kavindu-portfolio/
+
+💼 LinkedIn  
+https://linkedin.com/in/iamkavindu3
+
+📧 Email  
+kavindun277@gmail.com
+
+---
+
+⭐ Building software that connects technology with real-world business operations.
