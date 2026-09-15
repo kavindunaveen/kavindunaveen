@@ -1,6 +1,6 @@
 # Hi, I'm Kavindu Naveen 👋
 
-### Python/Django Software Engineer | Full-Stack & ERP Systems
+Full-Stack Software Engineer | Django ERP | React Native | Business Automation
 
 I'm a software engineer from Sri Lanka with 2+ years of commercial experience building production ERP systems, business applications, REST APIs, and mobile solutions.
 
